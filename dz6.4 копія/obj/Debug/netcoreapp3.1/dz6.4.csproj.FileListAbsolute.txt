@@ -1,0 +1,13 @@
+/Users/maxsavchuk/Projects/dz6.4/dz6.4/obj/Debug/netcoreapp3.1/dz6.4.csproj.AssemblyReference.cache
+/Users/maxsavchuk/Projects/dz6.4/dz6.4/obj/Debug/netcoreapp3.1/dz6.4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxsavchuk/Projects/dz6.4/dz6.4/obj/Debug/netcoreapp3.1/dz6.4.AssemblyInfoInputs.cache
+/Users/maxsavchuk/Projects/dz6.4/dz6.4/obj/Debug/netcoreapp3.1/dz6.4.AssemblyInfo.cs
+/Users/maxsavchuk/Projects/dz6.4/dz6.4/obj/Debug/netcoreapp3.1/dz6.4.csproj.CoreCompileInputs.cache
+/Users/maxsavchuk/Projects/dz6.4/dz6.4/bin/Debug/netcoreapp3.1/dz6.4.deps.json
+/Users/maxsavchuk/Projects/dz6.4/dz6.4/bin/Debug/netcoreapp3.1/dz6.4.runtimeconfig.json
+/Users/maxsavchuk/Projects/dz6.4/dz6.4/bin/Debug/netcoreapp3.1/dz6.4.runtimeconfig.dev.json
+/Users/maxsavchuk/Projects/dz6.4/dz6.4/bin/Debug/netcoreapp3.1/dz6.4.dll
+/Users/maxsavchuk/Projects/dz6.4/dz6.4/bin/Debug/netcoreapp3.1/dz6.4.pdb
+/Users/maxsavchuk/Projects/dz6.4/dz6.4/obj/Debug/netcoreapp3.1/dz6.4.dll
+/Users/maxsavchuk/Projects/dz6.4/dz6.4/obj/Debug/netcoreapp3.1/dz6.4.pdb
+/Users/maxsavchuk/Projects/dz6.4/dz6.4/obj/Debug/netcoreapp3.1/dz6.4.genruntimeconfig.cache
